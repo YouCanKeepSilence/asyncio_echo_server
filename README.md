@@ -1,5 +1,6 @@
 Simple asyncio echo server with graceful shutdown. 
-Python 3.6.8 without additional packages.
+
+Requires: Python 3.6.8 without additional packages.
 
 Launch: `python3 echo_server`
 
